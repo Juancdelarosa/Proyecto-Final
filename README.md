@@ -6,6 +6,8 @@ Realice mi programa con Eclipse y MySql. Se trata de un programa contituido por 
 
 Tambien consta de botones para volver a la ventana anterior.
 
+Tiene una parte faltante que es la ventana emergente de actualiza y eliminar los productos.
+
 Link del Video:https://youtu.be/wvfHoFDdMG4
 
 Nombre: Juan Carlos de la Rosa Concepción. Matricula: 2018-6890.
